@@ -1,0 +1,64 @@
+@font-face {
+    src: url(../fonts/Roboto/Roboto-Thin.ttf);
+    font-family: "Roboto-100";
+}
+@font-face {
+    src: url(../fonts/Roboto/Roboto-ThinItalic.ttf);
+    font-family: "Roboto-100i";
+}
+@font-face {
+    src: url(../fonts/Roboto/Roboto-Light.ttf);
+    font-family: "Roboto-300";
+}
+@font-face {
+    src: url(../fonts/Roboto/Roboto-LightItalic.ttf);
+    font-family: "Roboto-300i";
+}
+@font-face {
+    src: url(../fonts/Roboto/Roboto-Regular.ttf);
+    font-family: "Roboto-400";
+}
+@font-face {
+    src: url(../fonts/Roboto/Roboto-Italic.ttf);
+    font-family: "Roboto-400i";
+}
+@font-face {
+    src: url(../fonts/Roboto/Roboto-Medium.ttf);
+    font-family: "Roboto-500";
+}
+@font-face {
+    src: url(../fonts/Roboto/Roboto-MediumItalic.ttf);
+    font-family: "Roboto-500i";
+}
+@font-face {
+    src: url(../fonts/Roboto/Roboto-Bold.ttf);
+    font-family: "Roboto-700";
+}
+@font-face {
+    src: url(../fonts/Roboto/Roboto-BoldItalic.ttf);
+    font-family: "Roboto-700i";
+}
+@font-face {
+    src: url(../fonts/Roboto/Roboto-Black.ttf);
+    font-family: "Roboto-900";
+}
+@font-face {
+    src: url(../fonts/Roboto/Roboto-BlackItalic.ttf);
+    font-family: "Roboto-900i";
+}
+@font-face {
+    src: url(../fonts/Raleway/static/Raleway-Light.ttf);
+    font-family: "Ralewey-300";
+}
+@font-face {
+    src: url(../fonts/Raleway/static/Raleway-Regular.ttf);
+    font-family: "Ralewey-400";
+}
+@font-face {
+    src: url(../fonts/Raleway/static/Raleway-Bold.ttf);
+    font-family: "Ralewey-700";
+}
+@font-face {
+    src: url(../fonts/Raleway/static/Raleway-Black.ttf);
+    font-family: "Ralewey-900";
+}
